@@ -3,9 +3,10 @@
 
 ## Javaプログラミング
 ### 地雷ゲーム(Swing)
-Swingを使ったGUIの設定、メソッドなどを使ったプログラミング
+[mineGame:Swingを使ったGUIの設定、メソッドなどを使ったプログラミング](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame)
 
-[mineGame](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame)
+### 成績管理アプリ(コンソール)
+[report_management:コンソール上で動作する、生徒名と成績を入力するアプリ](https://github.com/ikeshin-asase/sampleJavaProgram_2_report_management)
 
 ## Googleスプレッドシート
 ### 案件進捗収益管理ファイル
