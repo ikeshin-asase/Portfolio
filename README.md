@@ -5,7 +5,9 @@
 ### 地雷ゲーム(Swing)
 Swingを使ったGUIの設定、メソッドなどを使ったプログラミング
 
-<a href="https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame)" rel="noopener noreferrer" target="_blank">mineGame</a>
+<a href="https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame" rel="noopener noreferrer" target="_blank">mineGame</a>
+
+[mineGame](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame" rel="noopener noreferrer)
 
 ## Googleスプレッドシート
 ### 案件進捗収益管理ファイル
@@ -13,4 +15,4 @@ Swingを使ったGUIの設定、メソッドなどを使ったプログラミン
 
 [入力用シート](https://docs.google.com/spreadsheets/d/1OFDwsDsVXjp3EHVvRtCJ_PUXj58K8XxfoiHuet1gNV4/edit#gid=734311351)
 
-![集計シート](https://docs.google.com/spreadsheets/d/1gGWLlrRPpfXjuaHxVqTTn2Hvpl-byR4A8Amxpan1_Lg/edit#gid=2140596786)
+[集計シート](https://docs.google.com/spreadsheets/d/1gGWLlrRPpfXjuaHxVqTTn2Hvpl-byR4A8Amxpan1_Lg/edit#gid=2140596786)
