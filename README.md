@@ -14,4 +14,4 @@
 
 [入力用シート](https://docs.google.com/spreadsheets/d/1OFDwsDsVXjp3EHVvRtCJ_PUXj58K8XxfoiHuet1gNV4/edit#gid=734311351)
 
-[集計シート](https://docs.google.com/spreadsheets/d/1gGWLlrRPpfXjuaHxVqTTn2Hvpl-byR4A8Amxpan1_Lg/edit#gid=2140596786)
+[集計シート](https://docs.google.com/spreadsheets/d/1BjPW7iCViBYMuPV_doAykz1ECwG2cV7a1q9dfOeEoRQ/edit#gid=2140596786)
