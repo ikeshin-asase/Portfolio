@@ -5,9 +5,7 @@
 ### 地雷ゲーム(Swing)
 Swingを使ったGUIの設定、メソッドなどを使ったプログラミング
 
-<a href="https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame" rel="noopener noreferrer" target="_blank">mineGame</a>
-
-[mineGame](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame" rel="noopener noreferrer)
+[mineGame](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame)
 
 ## Googleスプレッドシート
 ### 案件進捗収益管理ファイル
