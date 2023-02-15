@@ -2,6 +2,8 @@
 池田津次のプログラムやスキルなどのポートフォリオページです。
 
 ## Javaプログラミング
+
+### BMI算出(servlet)
 [BMI算出:servletを使ったWebプログラミング](https://github.com/ikeshin-asase/bmiCheck/blob/main/README.md)
 
 ### 地雷ゲーム(Swing)
