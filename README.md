@@ -4,7 +4,7 @@
 ## Javaプログラミング
 
 ### BMI算出(servlet)
-[bmiCheck:servletを使ったWebプログラミング](https://github.com/ikeshin-asase/bmiCheck/blob/main/README.md)
+[bmiCheck:servletを使ったWebプログラミング](https://github.com/ikeshin-asase/bmicheck/blob/main/README.md)
 
 ### 地雷ゲーム(Swing)
 [mineGame:Swingを使ったGUIの設定、メソッドなどを使ったプログラミング](https://github.com/ikeshin-asase/sampleJavaProgram_1_mineGame)
